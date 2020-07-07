@@ -1,22 +1,17 @@
-wewwewewewew
-ew
-w
-e
-we
-w
-e
-we
-w
-e
-we
-w
+import pandas as pd
+import num
+32
 
-we
-wwe
-ewewew
-we
-new code is 
-being 
-added
-now
-checking this function
+23
+23
+23
+3
+
+3
+
+3
+
+
+
+
+r ="sdsds"
