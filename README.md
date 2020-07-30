@@ -1,10 +1,10 @@
 # Stock-Market-Forecast
 Aim:
-To forecast tomorrow's share price raise or fall, to increase profits or investors.
+To forecast tomorrow's share price, will it raise? or fall?, to increase profits of investors.
 
-Stock market share value prediction
+### Stock market share value prediction
 
 Data is being taken from Yahoo Finance
 
-You can search for your company name and you can replace tickers variable with new market name.
+You can search for any willing company name at Yahoo finance and you can replace tickers variable with new market name.
 
