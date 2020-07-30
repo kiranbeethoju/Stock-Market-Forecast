@@ -2,7 +2,7 @@
 Aim:
 To forecast tomorrow's share price, will it raise? or fall?, to increase profits of investors.
 
-### Stock market share value prediction
+### Stock market share value fluctuation prediction
 
 Data is being taken from Yahoo Finance
 
